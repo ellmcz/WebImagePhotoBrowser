@@ -1,6 +1,10 @@
 //
 //  WebImageZoomScrollView.m
-
+//  Example
+//
+//  Created by Ellmcz on 16/7/30.
+//  Copyright © 2016年 Ellmcz. All rights reserved.
+//
 
 #import "WebImageZoomScrollView.h"
 

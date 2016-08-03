@@ -1,9 +1,9 @@
 //
 //  WebImgScrollView.h
-//  smarter.LoveLog
+//  Example
 //
-//  Created by 樊康鹏 on 16/1/21.
-//  Copyright © 2016年 FanKing. All rights reserved.
+//  Created by Ellmcz on 16/7/30.
+//  Copyright © 2016年 Ellmcz. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
